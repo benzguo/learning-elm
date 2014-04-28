@@ -1,4 +1,4 @@
 learning-elm
 ============
 
-* [Eyes](build/Eyes.html)
+* [Eyes](https://rawgithub.com/benzguo/learning-elm/master/build/Eyes.html)
