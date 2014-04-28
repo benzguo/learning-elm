@@ -1,4 +1,4 @@
 learning-elm
 ============
 
-Me learning elm http://elm-lang.org/
+* [Eyes](build/Eyes.html)
